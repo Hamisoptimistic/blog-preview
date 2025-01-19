@@ -2,13 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Figtree Sans;
 }
 
 body {
   height: 100vh;
   align-content: center;
   background-color: hsl(47, 88%, 63%);
-  font-family: Figtree Sans;
 }
 
 .container {
